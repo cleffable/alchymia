@@ -1,9 +1,4 @@
-# alchymia
+# ALCHYMIA 
+## the ultimate minecraft alchemy mod
 
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Lorem Ipsum is the standard placeholder or dummy text used in graphic design, publishing, and web development to preview layouts and typography. It features scrambled, nonsensical Latin designed to mimic the natural rhythm and letter distribution of readable English. This allows designers and clients to focus strictly on visual elements—like layout, spacing, and fonts—without being distracted by the actual content.
